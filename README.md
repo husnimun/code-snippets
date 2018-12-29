@@ -1,1 +1,2 @@
-# code-snippets
+# Code Snippets
+Repository for my personal code snippets
